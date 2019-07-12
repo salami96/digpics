@@ -1,15 +1,11 @@
 # DigPics 
 *Step-by-step of a personal, private and free drive for pictures and videos.*
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 * [DigPics](#digpics)
-      * [English Tutorial](#english-tutorial)
-      * [Turorial em Português](#turorial-em-português)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+   * [English Tutorial](#english-tutorial)
+   * [Turorial em Português](#turorial-em-português)
 
 
 #### English Tutorial
