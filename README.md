@@ -1,32 +1,51 @@
-# DigPics
+# DigPics 
+*Step-by-step of a personal, private and free drive for pictures and videos.*
 
-###### Step-by-step of a personal, private and free drive for pictures and videos. :tw-1f608:
+[TOC]
 
-In this repo, I will create a drive to upload my own pics and videos, making it free, private and safe.
+#### English Tutorial
+In this repo, I will create a drive to upload and storage my own pics and videos, making it free, private and safe.
 
-Requirement: node, git, heroku cli.
-
+Requirement: Node.JS, Git and Heroku Cli.
 
 1. Clone this repo with:
-
 `$ git clone https://github.com/salami96/digpics.git <your app name>`
 
 2. Go to your dir:
-
 `$ cd <your app name>`
 
 3. Install dependencies:
-
 `$ npm install`
 
 4. Log in to Heroku Cli:
-
 `$ heroku login`
 
 5. Create an app on Heroku Cli:
-
 `$ heroku create <your app name>`
 
 6. Deploy to Heroku:
+`$ git push heroku master`
 
+#### Turorial em Português
+Nesse repositório, vou criar um *drive* para subir e armazenar minhas próprias fotos e videos, fazendo isso de graça, privado e seguro.
+
+Pré-Requisitos: Node.JS, Git e Heroku Cli.
+
+
+1. Clone this repo with:
+`$ git clone https://github.com/salami96/digpics.git <your app name>`
+
+2. Go to your dir:
+`$ cd <your app name>`
+
+3. Install dependencies:
+`$ npm install`
+
+4. Log in to Heroku Cli:
+`$ heroku login`
+
+5. Create an app on Heroku Cli:
+`$ heroku create <your app name>`
+
+6. Deploy to Heroku:
 `$ git push heroku master`
