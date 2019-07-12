@@ -1,7 +1,16 @@
 # DigPics 
 *Step-by-step of a personal, private and free drive for pictures and videos.*
 
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DigPics](#digpics)
+      - [English Tutorial](#english-tutorial)
+      - [Turorial em Português](#turorial-em-portugu%C3%AAs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 #### English Tutorial
 In this repo, I will create a drive to upload and storage my own pics and videos, making it free, private and safe.
