@@ -1,6 +1,6 @@
-#DigPics
+# DigPics
 
-######Step-by-step of a personal, private and free drive for pictures and videos. :tw-1f608:
+###### Step-by-step of a personal, private and free drive for pictures and videos. :tw-1f608:
 
 In this repo, I will create a drive to upload my own pics and videos, making it free, private and safe.
 
