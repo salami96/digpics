@@ -9,21 +9,27 @@ In this repo, I will create a drive to upload and storage my own pics and videos
 Requirement: Node.JS, Git and Heroku Cli.
 
 1. Clone this repo with:
+
 `$ git clone https://github.com/salami96/digpics.git <your app name>`
 
 2. Go to your dir:
+
 `$ cd <your app name>`
 
 3. Install dependencies:
+
 `$ npm install`
 
 4. Log in to Heroku Cli:
+
 `$ heroku login`
 
 5. Create an app on Heroku Cli:
+
 `$ heroku create <your app name>`
 
 6. Deploy to Heroku:
+
 `$ git push heroku master`
 
 #### Turorial em Português
@@ -32,20 +38,26 @@ Nesse repositório, vou criar um *drive* para subir e armazenar minhas próprias
 Pré-Requisitos: Node.JS, Git e Heroku Cli.
 
 
-1. Clone this repo with:
+1. Clone esse repositório:
+
 `$ git clone https://github.com/salami96/digpics.git <your app name>`
 
-2. Go to your dir:
+2. Entre no diretório:
+
 `$ cd <your app name>`
 
-3. Install dependencies:
+3. Instale as dependências:
+
 `$ npm install`
 
-4. Log in to Heroku Cli:
+4. Faça *Log-in* no Heroku Cli:
+
 `$ heroku login`
 
-5. Create an app on Heroku Cli:
+5. Crie um *app* pelo Heroku Cli:
+
 `$ heroku create <your app name>`
 
-6. Deploy to Heroku:
+6. Faça o *Deploy* no Heroku:
+
 `$ git push heroku master`
